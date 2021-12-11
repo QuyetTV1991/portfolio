@@ -20,22 +20,24 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:111-111-1111">111-111-1111</LinkItem>
+          <LinkItem href="tel:(+84) 988 36 44 31)">(+84) 099 36 44 31</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:contact@gmail.com">contact@gmail.com</LinkItem>
+          <LinkItem href="mailto:quyettv.bk@gmail.com">
+            quyettv.bk@gmail.com
+          </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>Constantly learning and improving yourself everyday</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com">
+          <SocialIcons href="https://github.com/QuyetTV1991">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://linkedin.com">
+          <SocialIcons href="https://www.linkedin.com/in/quyet-tran-van-894793145/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
           <SocialIcons href="https://instagram.com">

@@ -54,16 +54,15 @@ export const projects = [
     description: "Create own portfolio page in order to show what I did",
     image: "/images/portfolio.PNG",
     tags: ["React", "NextJs"],
-    source: "https://google.com",
+    source: "https://github.com/QuyetTV1991/portfolio.git",
     visit: "https://quinlantran.com/",
     id: 3,
   },
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2019, text: "Take the first Front End Web Development Course" },
+  { year: 2020, text: "Take a 2D Graphic Desgin Course" },
+  { year: 2020, text: "Worked as freelancer" },
+  { year: 2021, text: "Shared my projects with the world" },
 ];

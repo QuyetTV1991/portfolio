@@ -20,7 +20,9 @@ const Hero = (props) => (
         <br /> I would like to help aspiring and established developers to take
         their development skills to the next level and build awesome apps.
       </SectionText>
-      <Button onClick={() => (window.location = "https://google.com")}>
+      <Button
+        onClick={() => (window.location = "https://github.com/QuyetTV1991")}
+      >
         Learn More
       </Button>
     </LeftSection>
